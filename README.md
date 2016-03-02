@@ -1,4 +1,2 @@
 # hello-world
-My firs repository
-
-This is my first time using GitHub.
+This is my firs repository on GitHub dedicated to learning.
